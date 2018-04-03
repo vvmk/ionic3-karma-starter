@@ -1,2 +1,2 @@
-# ionic3-karma-starter
-Addendum to Josh Morony's article updated for Ionic3
+# Unit testing in Ionic3 with Karma and Jasmine
+This is basically an addendum to [Josh Morony's article](https://www.joshmorony.com/introduction-to-testing-ionic-2-applications-with-testbed/) with minor updates for Ionic 3 (4/2/18). It is my intention that this repo fulfill the same purpose as Ionic's 'blank' app with karma already set up.
