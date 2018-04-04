@@ -29,9 +29,10 @@ npm install @types/jasmine --save-dev
 npm install @types/node --save-dev
 ```
 
-Then replace zone.js dependency in package.json with this line:  
+<s>Then replace zone.js dependency in package.json with this line:  
 
-`"zone.js": "git://github.com/JiaLiPassion/zone.js#jasmine-dist"`  
+`"zone.js": "git://github.com/JiaLiPassion/zone.js#jasmine-dist"`  </s>
+**This shouldn't be necessary if you use zone.js@0.8.25**
 
 then run  
 
